@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+.veggie {
+    color: green;
+    font-size: 15px;
+}
+
+#first-item {
+    border-top: solid grey;
+}
